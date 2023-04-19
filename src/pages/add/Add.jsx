@@ -1,5 +1,5 @@
 import React from "react";
-import "./Add.css";
+import "./Add.scss";
 
 const Add = () => {
   return <div className="add">Add</div>;
