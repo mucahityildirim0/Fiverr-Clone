@@ -6,6 +6,7 @@ import Slide from "../../components/Slide/Slide";
 import CatCard from "../../components/CatCard/CatCard";
 import { cards, projects } from "../../data";
 import ProjectCard from "../../components/ProjectCard/ProjectCard";
+import Footer from "../../components/footer/Footer";
 
 const Home = () => {
   return (
