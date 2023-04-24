@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Gigs.scss";
-import GigCard from "../../components/gigCard/GigCard";
+import GigCard from "../../components/GigCard/GigCard";
 import { gigs } from "../../data";
 
 const Gigs = () => {
