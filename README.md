@@ -7,12 +7,12 @@ This is a Fiverr-clone website. Click demo to try it by yourself!
 * Javascript
 * Vite
 * React
-* react-slider
-* react-router-dom
+* React-slider
+* React-router-dom
 
 
 
-##  You can view the site here <a href="https://64469c943051eb4588d96fd7--voluble-malabi-209e78.netlify.app/" target="_blank" alt="demo link">Click Me </a>
+###  You can view the site here <a href="https://64469c943051eb4588d96fd7--voluble-malabi-209e78.netlify.app/" target="_blank" alt="demo link">Click Me </a>
 
 ## Screenshots:
 ![image](https://user-images.githubusercontent.com/72821281/234041788-6ce912f2-3c54-4afb-9bf2-10ec45c55c00.png)
