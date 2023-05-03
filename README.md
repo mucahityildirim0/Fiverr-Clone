@@ -1,9 +1,9 @@
-# FIVERR-CLONE
+# Fiverr-Clone
 
-This is a Fiverr-clone website. 
+This is a Fiverr-clone website. Click demo to try it by yourself!
 
 
-## TECHNOLOGIES/PACKAGES/TEMPLATE I USE
+## Topics
 * Javascript
 * Vite
 * React
